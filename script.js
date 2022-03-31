@@ -26,6 +26,8 @@ class House {
   }
 }
 
+let document
+
 myCar = new Car("Maserati");
 rental = new House("2000 Square Foot apartment");
 
